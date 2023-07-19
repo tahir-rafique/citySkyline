@@ -1,4 +1,3 @@
-
 :root {
   --building-color1: #aa80ff;
   --building-color2: #66cc99;
@@ -304,10 +303,11 @@ body {
     --building-color2: #000;
     --building-color3: #000;
     --building-color4: #000;
-    --window-color1: #777;
-    --window-color2: #777;
-    --window-color3: #777;
-    --window-color4: #777;
+    --window-color1:#777;
+    --window-color2:#777;
+    --window-color3:#777;
+    --window-color4:#777;
+
   }
   .sky {
     background: radial-gradient(
